@@ -1,2 +1,3 @@
-# LinkGame
+﻿# LinkGame
 连连看
+李景奇写于2018年4月实训
